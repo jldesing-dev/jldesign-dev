@@ -1,16 +1,18 @@
-### Hi there 👋
+## HEYYY 👋
 
-<!--
-**jldesing-dev/jldesing-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My Name is Jose Luis De Leon 😉
 
-Here are some ideas to get you started:
+I'm a Web Developer from Dominican Republic. I have experience in the desing things with Adobe Illustrator/Photoshop, create Web Applications and Web Pages. I'm learning a backend languages por be a complete programmer.
+>Don't programming for solves problems, programming for create solves.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- SASS
+
+
+## Contact
+
+You can contact me in my [Instagram DM](https://www.instagram.com/jldesing_06/) and in **Mail: jldesing1802@gmail.com** too.
