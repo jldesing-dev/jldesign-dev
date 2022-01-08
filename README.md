@@ -2,7 +2,7 @@
 
 # My Name is Jose Luis De Leon 😉
 
-I'm a Web Developer from Dominican Republic. I have experience in the desing things with Adobe Illustrator/Photoshop, create Web Applications and Web Pages. I'm learning a backend languages por be a complete programmer.
+I'm a Web Developer from Dominican Republic. I have experience in the design things with Adobe Illustrator/Photoshop, create Web Applications and Web Pages. I'm learning a backend languages por be a complete programmer.
 >Don't programming for solves problems, programming for create solves.
 
 ## Skills
